@@ -1,5 +1,7 @@
 coffer：（coffer内的所有接口前缀为 coffer）
- 
+
+
+
 /insertCoffer （向保险箱添加文件)
 请求类型：get
 参数：文件类型 type 文件名 filename

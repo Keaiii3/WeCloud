@@ -1,6 +1,6 @@
 share情况下的请求：
 （前端传参方式都是raw方式发送）
-sharefile/test
+sharefile/test((测试接口)
 
 sharefile/ShareToFile（在前端界面处选中一些资源 之后点击共享 资源类型是一致的）
 请求类型：post 

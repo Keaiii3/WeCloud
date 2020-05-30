@@ -1,5 +1,7 @@
 note：（index内的所有接口前缀为 note）
- 
+
+
+
 /delNote （删除相应笔记)
 请求类型：get
 参数：file_id (笔记的索引序号）

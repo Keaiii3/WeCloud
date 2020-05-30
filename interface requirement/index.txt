@@ -1,5 +1,7 @@
 index：（index内的所有接口前缀为 index）
- 
+
+
+
 /getFile （获取对应类型的文件)
 请求类型：get
 参数：type (类型有 all【全部类型的文件，包括doc,img,video,radio】,trash【回收站的文件】,doc【文档类型】,img【图片类型】,video【视频类型】,radio【音频类型】coffer【保险箱的文件】）
